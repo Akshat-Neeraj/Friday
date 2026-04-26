@@ -96,7 +96,6 @@ FRIDAY is a personal AI voice assistant project designed to automate system task
 
 ### Basic Commands
 
-```python
 # Start FRIDAY
 python friday.py
 
@@ -104,18 +103,18 @@ python friday.py
 "FRIDAY, what time is it?"
 "FRIDAY, open browser"
 "FRIDAY, search for Python tutorials"
-```
+
 
 ### Safety Features
 
 FRIDAY will ask for confirmation before executing system-level commands:
 
-```
+
 User: "FRIDAY, shut down computer"
 FRIDAY: "Are you sure you want to shut down? (yes/no)"
 User: "yes"
 FRIDAY: "Shutting down..."
-```
+
 
 ## 📊 Project Status
 
@@ -195,7 +194,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - GitHub: [@Akshat-Neeraj](https://github.com/Akshat-Neeraj)
 - Email: akshatneeraj24680@gmail.com
 
----
+
 
 ## 🙏 Acknowledgments
 
@@ -203,7 +202,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Inspired by the developer community
 - Thanks to everyone following the #buildinpublic journey
 
----
+
 
 <div align="center">
 
